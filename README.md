@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amudhan45
 - 👀 I’m interested in App & web development and space technologies !
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate with developers to learn and create apps!
+- 🌱 I’m currently learning Front end development
+- 💞️ I’m looking to collaborate with developers to learn and create web & apps!
 - 📫 How to reach me amudhanharisekar@gmail.com
 
 <!---
